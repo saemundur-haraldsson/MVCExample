@@ -5,7 +5,7 @@ package mvcexample;
  * @author savi
  */
 // Launcher for application
-// new comment added comment
+// new comment added comment IntelliJ comment
 public class Main {
    
     public static void main(String args[]) {
